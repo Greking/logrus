@@ -1,6 +1,9 @@
 ## logrus
 ----
 
+DEPRECATED
+==========
+Please refer to https://github.com/gogap/logrus_mate
 
 ### example
 
